@@ -1,1 +1,2 @@
 echo "it worked"
+pause
